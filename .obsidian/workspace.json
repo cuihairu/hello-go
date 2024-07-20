@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "885520f3e956bdd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6ec162f83019094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72610fb9cc312e4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/func/History.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ac4f778eb103277",
+    "type": "split",
+    "children": [
+      {
+        "id": "909fabe67b5a03b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa6b9db8af798974",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a046e41a349fcee4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abe4a169869165e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22e2e677a5f302a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0866ac7f5fd80091",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c3e586f2d7b7184",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/func/History.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f0db7caf08db384",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/func/History.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ddd367be6f06a3fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5f410e4911c715e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/func/History.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "72610fb9cc312e4f",
+  "lastOpenFiles": [
+    "src/SUMMARY.md",
+    "src/func/History.md",
+    "src/func",
+    "book/elasticlunr.min.js",
+    "book/mark.min.js",
+    "book/searcher.js",
+    "book/searchindex.js",
+    "book/searchindex.json",
+    "book/mermaid-init.js",
+    "book/mermaid.min.js",
+    "book/highlight.js",
+    "book/ayu-highlight.css",
+    "book/favicon.svg",
+    "book/favicon.png",
+    "src/concurrency/GMP.md",
+    "src/concurrency/ChanImpl.md",
+    "book/FontAwesome/fonts/fontawesome-webfont.svg",
+    "src/GMP.md",
+    "src/concurrency/ErrorGroup.md",
+    "src/concurrency/WaitGroup.md",
+    "src/concurrency/GoroutineImpl.md",
+    "src/concurrency/Select.md",
+    "src/concurrency/Goroutine.md",
+    "src/concurrency/Concurrency.md",
+    "src/concurrency/Chan.md",
+    "concurrency/Goroutine.md",
+    "type/Chan.md",
+    "src/type/Interface.md",
+    "src/GC.md",
+    "src/type/Type.md",
+    "src/type/Heap.md",
+    "src/type/CompositeType.md",
+    "src/type/Int.md",
+    "src/type/Pointer.md",
+    "src/type/HtmlTemplate.md",
+    "src/type/Template.md",
+    "src/type/Json.md",
+    "src/const/TrueAndFalse.md"
+  ]
+}
