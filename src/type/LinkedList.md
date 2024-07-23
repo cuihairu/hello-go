@@ -1,4 +1,4 @@
-在 Go 语言中，并没有直接提供双向链表（Doubly Linked List）的标准库实现，但可以通过 `container/list` 包来使用双向链表。这个包提供了双向链表的实现，可以用来管理和操作元素集合。
+ 在 Go 语言中，并没有直接提供双向链表（Doubly Linked List）的标准库实现，但可以通过 `container/list` 包来使用双向链表。这个包提供了双向链表的实现，可以用来管理和操作元素集合。
 
 ### `container/list` 包概述
 

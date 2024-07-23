@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/func/History.md",
+                "file": "src/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/func/History.md",
+                "file": "src/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/func/History.md",
+                "file": "src/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/func/History.md"
+                "file": "src/SUMMARY.md"
               }
             }
           }
@@ -147,7 +147,17 @@
   },
   "active": "72610fb9cc312e4f",
   "lastOpenFiles": [
+    "src/type/BaseConv.md",
     "src/SUMMARY.md",
+    "src/type/Conv.md",
+    "src/type/TypeInference.md",
+    "src/type/Assertion.md",
+    "type/Conv.md",
+    "type",
+    "func/Arguments.md",
+    "func",
+    "src/operator/Operator.md",
+    "src/type/LinkedList.md",
     "src/func/History.md",
     "src/func",
     "book/elasticlunr.min.js",
@@ -157,8 +167,6 @@
     "book/searchindex.json",
     "book/mermaid-init.js",
     "book/mermaid.min.js",
-    "book/highlight.js",
-    "book/ayu-highlight.css",
     "book/favicon.svg",
     "book/favicon.png",
     "src/concurrency/GMP.md",
@@ -177,13 +185,6 @@
     "src/type/Interface.md",
     "src/GC.md",
     "src/type/Type.md",
-    "src/type/Heap.md",
-    "src/type/CompositeType.md",
-    "src/type/Int.md",
-    "src/type/Pointer.md",
-    "src/type/HtmlTemplate.md",
-    "src/type/Template.md",
-    "src/type/Json.md",
-    "src/const/TrueAndFalse.md"
+    "src/type/Heap.md"
   ]
 }
