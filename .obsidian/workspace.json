@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "debug/Delve.md",
+                "file": "src/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "debug/Delve.md",
+                "file": "src/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "debug/Delve.md",
+                "file": "src/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "debug/Delve.md"
+                "file": "src/SUMMARY.md"
               }
             }
           }
@@ -147,44 +147,44 @@
   },
   "active": "72610fb9cc312e4f",
   "lastOpenFiles": [
-    "src/SUMMARY.md",
-    "debug/Delve.md",
-    "debug",
-    "src/debug/GCC.md",
-    "src/debug/Expvar.md",
-    "src/debug/Debug.md",
-    "src/debug/未命名.md",
-    "src/debug/Utils.md",
-    "src/cgo",
-    "src/alloc",
-    "src/Chan.md",
-    "src/cgo/CGO.md",
-    "src/alloc/Alloc.md",
-    "src/asm",
-    "src/reflection/Reflection.md",
-    "src/reflection",
-    "src/debug/Pprof.md",
     "src/Goroutine.md",
-    "src/GMP.md",
-    "src/Labels.md",
-    "src/gc/GC.md",
-    "src/gc",
-    "src/mod/Init.md",
-    "src/Context.md",
     "src/Poly.md",
-    "src/debug",
+    "src/reflection/Reflection.md",
+    "src/Delve.md",
+    "src/GC.md",
+    "src/SUMMARY.md",
+    "src/sys/Sys.md",
+    "src/sys",
+    "book/reflection",
+    "book/gc",
+    "book/asm",
     "book/elasticlunr.min.js",
     "book/mark.min.js",
     "book/searcher.js",
+    "book/searchindex.js",
+    "book/searchindex.json",
+    "book/FontAwesome/fonts/FontAwesome.ttf",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
-    "src/operator/Receiver.md",
-    "src/operator/TypeAssertion.md",
-    "src/operator/Cap.md",
-    "src/operator/BitLen.md",
-    "src/operator/Unary.md",
-    "src/operator/Assignment.md",
-    "src/operator/Bitwise.md"
+    "src/alloc/GC.md",
+    "src/alloc.GC.md",
+    "src/debug/Utils.md",
+    "src/Reflection.md",
+    "src/Alloc.md",
+    "src/Assembly.md",
+    "src/debug/Pprof.md",
+    "src/debug/Debug.md",
+    "src/debug/Expvar.md",
+    "src/debug/GCC.md",
+    "src/debug/Delve.md",
+    "src/debug/未命名.md",
+    "src/Chan.md",
+    "src/cgo/CGO.md",
+    "src/alloc/Alloc.md",
+    "src/GMP.md",
+    "src/Labels.md",
+    "src/gc/GC.md",
+    "src/mod/Init.md"
   ]
 }
