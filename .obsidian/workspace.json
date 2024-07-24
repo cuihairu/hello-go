@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/error/PanicAndRecover.md",
+                "file": "src/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/error/PanicAndRecover.md",
+                "file": "src/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/error/PanicAndRecover.md",
+                "file": "src/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/error/PanicAndRecover.md"
+                "file": "src/SUMMARY.md"
               }
             }
           }
@@ -147,22 +147,24 @@
   },
   "active": "72610fb9cc312e4f",
   "lastOpenFiles": [
+    "src/oop/OOP.md",
     "src/SUMMARY.md",
-    "src/error/PanicAndRecover.md",
-    "src/error/ErrorType.md",
+    "src/oop",
+    "src/error/Errors.md",
     "error",
-    "book/func/Inner",
     "book/elasticlunr.min.js",
     "book/mark.min.js",
     "book/searcher.js",
     "book/searchindex.js",
     "book/searchindex.json",
-    "book/mermaid-init.js",
-    "book/mermaid.min.js",
-    "book/fonts/source-code-pro-v11-all-charsets-500.woff2",
-    "book/FontAwesome/fonts/fontawesome-webfont.svg",
+    "book/clipboard.min.js",
+    "book/highlight.js",
+    "book/ayu-highlight.css",
     "book/favicon.svg",
     "book/favicon.png",
+    "src/error/PanicAndRecover.md",
+    "book/FontAwesome/fonts/fontawesome-webfont.svg",
+    "src/error/ErrorType.md",
     "src/Labels.md",
     "src/error/Error.md",
     "src/idioms/Labels.md",
@@ -183,8 +185,6 @@
     "src/idioms/CommaOk.md",
     "src/idioms/BlankIdentifier.md",
     "src/idioms/ShortVarDecl.md",
-    "src/var/VarAndInit.md",
-    "func/Arguments.md",
-    "src/idioms/Idioms.md"
+    "src/var/VarAndInit.md"
   ]
 }
