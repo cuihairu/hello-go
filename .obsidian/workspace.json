@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/generics/Structure.md",
+                "file": "src/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/generics/Structure.md",
+                "file": "src/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/generics/Structure.md",
+                "file": "src/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/generics/Structure.md"
+                "file": "src/SUMMARY.md"
               }
             }
           }
@@ -147,34 +147,35 @@
   },
   "active": "72610fb9cc312e4f",
   "lastOpenFiles": [
-    "src/SUMMARY.md",
-    "src/generics/Structure.md",
-    "generics/Structue.md",
-    "generics",
-    "src/generics/Performance.md",
-    "src/generics/Advanced.md",
-    "src/generics/Pattern.md",
-    "src/generics/Constraints.md",
-    "src/generics/Syntax.md",
-    "src/generics/Generics.md",
-    "src/generics",
-    "src/Goroutine.md",
     "src/Poly.md",
-    "src/reflection/Reflection.md",
+    "src/SUMMARY.md",
     "src/Delve.md",
-    "src/GC.md",
-    "src/sys/Sys.md",
-    "src/sys",
-    "book/reflection",
+    "src/debug/GDB.md",
     "book/gc",
     "book/asm",
     "book/elasticlunr.min.js",
     "book/mark.min.js",
     "book/searcher.js",
     "book/searchindex.js",
+    "book/searchindex.json",
+    "book/404.html",
+    "book/algo/tree/TreeHeap.html",
+    "book/algo/tree/Tree.html",
+    "src/generics/Structure.md",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
+    "generics/Structue.md",
+    "src/generics/Performance.md",
+    "src/generics/Advanced.md",
+    "src/generics/Pattern.md",
+    "src/generics/Constraints.md",
+    "src/generics/Syntax.md",
+    "src/generics/Generics.md",
+    "src/Goroutine.md",
+    "src/reflection/Reflection.md",
+    "src/GC.md",
+    "src/sys/Sys.md",
     "src/alloc/GC.md",
     "src/alloc.GC.md",
     "src/debug/Utils.md",
@@ -183,8 +184,6 @@
     "src/Assembly.md",
     "src/debug/Pprof.md",
     "src/debug/Debug.md",
-    "src/debug/Expvar.md",
-    "src/debug/GCC.md",
-    "src/debug/Delve.md"
+    "src/debug/Expvar.md"
   ]
 }
