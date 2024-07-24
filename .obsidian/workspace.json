@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/func/Defer.md",
+                "file": "src/error/PanicAndRecover.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/func/Defer.md",
+                "file": "src/error/PanicAndRecover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/func/Defer.md",
+                "file": "src/error/PanicAndRecover.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/func/Defer.md"
+                "file": "src/error/PanicAndRecover.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   "active": "72610fb9cc312e4f",
   "lastOpenFiles": [
     "src/SUMMARY.md",
-    "src/func/RecursiveFunction.md",
-    "src/idioms/Range.md",
-    "src/func/AnonymousFunc.md",
+    "src/error/PanicAndRecover.md",
+    "src/error/ErrorType.md",
+    "error",
+    "book/func/Inner",
     "book/elasticlunr.min.js",
     "book/mark.min.js",
     "book/searcher.js",
@@ -159,15 +160,22 @@
     "book/mermaid-init.js",
     "book/mermaid.min.js",
     "book/fonts/source-code-pro-v11-all-charsets-500.woff2",
-    "book/fonts/SOURCE-CODE-PRO-LICENSE.txt",
-    "book/fonts/open-sans-v17-all-charsets-regular.woff2",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
+    "src/Labels.md",
+    "src/error/Error.md",
+    "src/idioms/Labels.md",
+    "error/Error.md",
+    "src/syntax/Break.md",
+    "src/func/InnerFunc.md",
+    "src/func/Defer.md",
+    "src/func/RecursiveFunction.md",
+    "src/idioms/Range.md",
+    "src/func/AnonymousFunc.md",
     "src/src/type/Switch.md",
     "src/func/FuncValue.md",
     "src/func/DefineAndCall.md",
-    "src/func/Defer.md",
     "src/func/MultipleReturnValues.md",
     "src/func/Arguments.md",
     "src/func/VariadicParameters.md",
@@ -177,14 +185,6 @@
     "src/idioms/ShortVarDecl.md",
     "src/var/VarAndInit.md",
     "func/Arguments.md",
-    "src/idioms/Idioms.md",
-    "src/type/Switch.md",
-    "src/type/BaseConv.md",
-    "src/type/Conv.md",
-    "src/type/TypeInference.md",
-    "src/type/Assertion.md",
-    "type/Conv.md",
-    "src/operator/Operator.md",
-    "src/type/LinkedList.md"
+    "src/idioms/Idioms.md"
   ]
 }
