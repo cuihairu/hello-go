@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "debug/Delve.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "debug/Delve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "debug/Delve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SUMMARY.md"
+                "file": "debug/Delve.md"
               }
             }
           }
@@ -147,44 +147,44 @@
   },
   "active": "72610fb9cc312e4f",
   "lastOpenFiles": [
+    "src/SUMMARY.md",
+    "debug/Delve.md",
+    "debug",
+    "src/debug/GCC.md",
+    "src/debug/Expvar.md",
+    "src/debug/Debug.md",
+    "src/debug/未命名.md",
+    "src/debug/Utils.md",
+    "src/cgo",
+    "src/alloc",
+    "src/Chan.md",
+    "src/cgo/CGO.md",
+    "src/alloc/Alloc.md",
+    "src/asm",
+    "src/reflection/Reflection.md",
+    "src/reflection",
+    "src/debug/Pprof.md",
+    "src/Goroutine.md",
+    "src/GMP.md",
+    "src/Labels.md",
+    "src/gc/GC.md",
+    "src/gc",
+    "src/mod/Init.md",
+    "src/Context.md",
+    "src/Poly.md",
+    "src/debug",
     "book/elasticlunr.min.js",
     "book/mark.min.js",
     "book/searcher.js",
-    "book/searchindex.js",
-    "book/searchindex.json",
-    "book/mermaid-init.js",
-    "book/mermaid.min.js",
-    "book/fonts/source-code-pro-v11-all-charsets-500.woff2",
-    "book/fonts/SOURCE-CODE-PRO-LICENSE.txt",
-    "book/fonts/open-sans-v17-all-charsets-italic.woff2",
-    "book/fonts/open-sans-v17-all-charsets-regular.woff2",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
     "src/operator/Receiver.md",
-    "src/SUMMARY.md",
     "src/operator/TypeAssertion.md",
     "src/operator/Cap.md",
     "src/operator/BitLen.md",
     "src/operator/Unary.md",
     "src/operator/Assignment.md",
-    "src/operator/Bitwise.md",
-    "src/operator/Logical.md",
-    "src/operator/Operator.md",
-    "src/operator/Relational.md",
-    "src/func/Arguments.md",
-    "src/operator/Arithmetic.md",
-    "src/var/Variable.md",
-    "src/mod/Init.md",
-    "src/mod/Import.md",
-    "src/mod/Work.md",
-    "src/mod/Mod.md",
-    "src/mod/Vendor.md",
-    "src/mod/Package.md",
-    "src/mod/Pkg.md",
-    "src/Pprof.md",
-    "src/Reflection.md",
-    "src/Recover.md",
-    "src/pkg 1/Pkg.md"
+    "src/operator/Bitwise.md"
   ]
 }
