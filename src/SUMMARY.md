@@ -110,7 +110,7 @@
 	- [WaitGroup](concurrency/WaitGroup.md)
 	- [ErrorGroup](concurrency/ErrorGroup.md)
 	- [调度器](concurrency/GMP.md)
-- [并发与同步]()
+- [并发与同步](sync/Sync.md)
 	- [竞争条件]()
 	- [互拆锁]()
 	- [读写锁]()
