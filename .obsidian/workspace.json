@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/generics/Structure.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/generics/Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/generics/Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SUMMARY.md"
+                "file": "src/generics/Structure.md"
               }
             }
           }
@@ -147,12 +147,22 @@
   },
   "active": "72610fb9cc312e4f",
   "lastOpenFiles": [
+    "src/SUMMARY.md",
+    "src/generics/Structure.md",
+    "generics/Structue.md",
+    "generics",
+    "src/generics/Performance.md",
+    "src/generics/Advanced.md",
+    "src/generics/Pattern.md",
+    "src/generics/Constraints.md",
+    "src/generics/Syntax.md",
+    "src/generics/Generics.md",
+    "src/generics",
     "src/Goroutine.md",
     "src/Poly.md",
     "src/reflection/Reflection.md",
     "src/Delve.md",
     "src/GC.md",
-    "src/SUMMARY.md",
     "src/sys/Sys.md",
     "src/sys",
     "book/reflection",
@@ -162,8 +172,6 @@
     "book/mark.min.js",
     "book/searcher.js",
     "book/searchindex.js",
-    "book/searchindex.json",
-    "book/FontAwesome/fonts/FontAwesome.ttf",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
@@ -177,14 +185,6 @@
     "src/debug/Debug.md",
     "src/debug/Expvar.md",
     "src/debug/GCC.md",
-    "src/debug/Delve.md",
-    "src/debug/未命名.md",
-    "src/Chan.md",
-    "src/cgo/CGO.md",
-    "src/alloc/Alloc.md",
-    "src/GMP.md",
-    "src/Labels.md",
-    "src/gc/GC.md",
-    "src/mod/Init.md"
+    "src/debug/Delve.md"
   ]
 }
