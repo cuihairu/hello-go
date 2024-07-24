@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/func/Defer.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/func/Defer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/func/Defer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SUMMARY.md"
+                "file": "src/func/Defer.md"
               }
             }
           }
@@ -147,19 +147,10 @@
   },
   "active": "72610fb9cc312e4f",
   "lastOpenFiles": [
-    "src/type/BaseConv.md",
     "src/SUMMARY.md",
-    "src/type/Conv.md",
-    "src/type/TypeInference.md",
-    "src/type/Assertion.md",
-    "type/Conv.md",
-    "type",
-    "func/Arguments.md",
-    "func",
-    "src/operator/Operator.md",
-    "src/type/LinkedList.md",
-    "src/func/History.md",
-    "src/func",
+    "src/func/RecursiveFunction.md",
+    "src/idioms/Range.md",
+    "src/func/AnonymousFunc.md",
     "book/elasticlunr.min.js",
     "book/mark.min.js",
     "book/searcher.js",
@@ -167,24 +158,33 @@
     "book/searchindex.json",
     "book/mermaid-init.js",
     "book/mermaid.min.js",
+    "book/fonts/source-code-pro-v11-all-charsets-500.woff2",
+    "book/fonts/SOURCE-CODE-PRO-LICENSE.txt",
+    "book/fonts/open-sans-v17-all-charsets-regular.woff2",
+    "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
-    "src/concurrency/GMP.md",
-    "src/concurrency/ChanImpl.md",
-    "book/FontAwesome/fonts/fontawesome-webfont.svg",
-    "src/GMP.md",
-    "src/concurrency/ErrorGroup.md",
-    "src/concurrency/WaitGroup.md",
-    "src/concurrency/GoroutineImpl.md",
-    "src/concurrency/Select.md",
-    "src/concurrency/Goroutine.md",
-    "src/concurrency/Concurrency.md",
-    "src/concurrency/Chan.md",
-    "concurrency/Goroutine.md",
-    "type/Chan.md",
-    "src/type/Interface.md",
-    "src/GC.md",
-    "src/type/Type.md",
-    "src/type/Heap.md"
+    "src/src/type/Switch.md",
+    "src/func/FuncValue.md",
+    "src/func/DefineAndCall.md",
+    "src/func/Defer.md",
+    "src/func/MultipleReturnValues.md",
+    "src/func/Arguments.md",
+    "src/func/VariadicParameters.md",
+    "src/idioms/StructTags.md",
+    "src/idioms/CommaOk.md",
+    "src/idioms/BlankIdentifier.md",
+    "src/idioms/ShortVarDecl.md",
+    "src/var/VarAndInit.md",
+    "func/Arguments.md",
+    "src/idioms/Idioms.md",
+    "src/type/Switch.md",
+    "src/type/BaseConv.md",
+    "src/type/Conv.md",
+    "src/type/TypeInference.md",
+    "src/type/Assertion.md",
+    "type/Conv.md",
+    "src/operator/Operator.md",
+    "src/type/LinkedList.md"
   ]
 }
