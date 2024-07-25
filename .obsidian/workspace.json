@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/encoding/TOML.md",
+                "file": "src/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/encoding/TOML.md",
+                "file": "src/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/encoding/TOML.md",
+                "file": "src/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/encoding/TOML.md"
+                "file": "src/SUMMARY.md"
               }
             }
           }
@@ -147,7 +147,18 @@
   },
   "active": "72610fb9cc312e4f",
   "lastOpenFiles": [
+    "src/net/Proactor.md",
     "src/SUMMARY.md",
+    "src/net/Reactor.md",
+    "src/net/Concurrence.md",
+    "src/net/Advanced.md",
+    "src/net/SlidingWindow.md",
+    "src/net/Socket.md",
+    "src/net/Proto.md",
+    "src/net/Intro.md",
+    "src/log",
+    "src/net",
+    "src/encoding/TOML.md",
     "src/encoding/Ini.md",
     "src/encoding/CSV.md",
     "src/encoding/Base64.md",
@@ -156,7 +167,6 @@
     "src/encoding/Text.md",
     "src/encoding/UTF8.md",
     "src/encoding/Binary.md",
-    "src/encoding/TOML.md",
     "src/encoding/Gob.md",
     "src/encoding/Hex.md",
     "src/encoding/Voice.md",
@@ -166,11 +176,6 @@
     "src/Goroutine.md",
     "src/Chan.md",
     "src/Alloc.md",
-    "src/alloc.GC.md",
-    "src/Assembly.md",
-    "src/Reflection.md",
-    "src/Poly.md",
-    "src/io/ModPath.md",
     "book/gc",
     "book/asm",
     "book/elasticlunr.min.js",
@@ -178,13 +183,8 @@
     "book/searcher.js",
     "book/searchindex.js",
     "book/searchindex.json",
-    "book/FontAwesome/fonts/FontAwesome.ttf",
-    "book/FontAwesome/fonts/fontawesome-webfont.woff2",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
-    "book/favicon.png",
-    "src/io/ModOS.md",
-    "src/io/ModIO.md",
-    "src/io/Utils.md"
+    "book/favicon.png"
   ]
 }
