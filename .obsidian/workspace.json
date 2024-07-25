@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Goroutine.md",
+                "file": "src/encoding/TOML.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Goroutine.md",
+                "file": "src/encoding/TOML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Goroutine.md",
+                "file": "src/encoding/TOML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Goroutine.md"
+                "file": "src/encoding/TOML.md"
               }
             }
           }
@@ -147,11 +147,27 @@
   },
   "active": "72610fb9cc312e4f",
   "lastOpenFiles": [
+    "src/SUMMARY.md",
+    "src/encoding/Ini.md",
+    "src/encoding/CSV.md",
+    "src/encoding/Base64.md",
+    "src/encoding/XML.md",
+    "src/encoding/JSON.md",
+    "src/encoding/Text.md",
+    "src/encoding/UTF8.md",
+    "src/encoding/Binary.md",
+    "src/encoding/TOML.md",
+    "src/encoding/Gob.md",
+    "src/encoding/Hex.md",
+    "src/encoding/Voice.md",
+    "src/encoding/Formats.md",
+    "src/encoding/Encoding.md",
+    "src/encoding",
+    "src/Goroutine.md",
     "src/Chan.md",
     "src/Alloc.md",
     "src/alloc.GC.md",
     "src/Assembly.md",
-    "src/SUMMARY.md",
     "src/Reflection.md",
     "src/Poly.md",
     "src/io/ModPath.md",
@@ -164,27 +180,11 @@
     "book/searchindex.json",
     "book/FontAwesome/fonts/FontAwesome.ttf",
     "book/FontAwesome/fonts/fontawesome-webfont.woff2",
-    "book/FontAwesome/fonts/fontawesome-webfont.woff",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
     "src/io/ModOS.md",
     "src/io/ModIO.md",
-    "src/io/Utils.md",
-    "src/io/Advanced.md",
-    "src/io/FileAdvanced.md",
-    "src/io/Example.md",
-    "src/io/CommonFormats.md",
-    "src/io/Security.md",
-    "src/io/EfficientIO.md",
-    "src/io/InputOutput.md",
-    "src/io/FileOperation.md",
-    "src/io/File.md",
-    "src/io/IO.md",
-    "src/Delve.md",
-    "src/debug/GDB.md",
-    "src/generics/Structure.md",
-    "generics/Structue.md",
-    "src/generics/Performance.md"
+    "src/io/Utils.md"
   ]
 }
