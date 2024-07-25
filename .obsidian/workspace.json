@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/Goroutine.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/Goroutine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/Goroutine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SUMMARY.md"
+                "file": "src/Goroutine.md"
               }
             }
           }
@@ -147,10 +147,14 @@
   },
   "active": "72610fb9cc312e4f",
   "lastOpenFiles": [
-    "src/Poly.md",
+    "src/Chan.md",
+    "src/Alloc.md",
+    "src/alloc.GC.md",
+    "src/Assembly.md",
     "src/SUMMARY.md",
-    "src/Delve.md",
-    "src/debug/GDB.md",
+    "src/Reflection.md",
+    "src/Poly.md",
+    "src/io/ModPath.md",
     "book/gc",
     "book/asm",
     "book/elasticlunr.min.js",
@@ -158,32 +162,29 @@
     "book/searcher.js",
     "book/searchindex.js",
     "book/searchindex.json",
-    "book/404.html",
-    "book/algo/tree/TreeHeap.html",
-    "book/algo/tree/Tree.html",
-    "src/generics/Structure.md",
+    "book/FontAwesome/fonts/FontAwesome.ttf",
+    "book/FontAwesome/fonts/fontawesome-webfont.woff2",
+    "book/FontAwesome/fonts/fontawesome-webfont.woff",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
+    "src/io/ModOS.md",
+    "src/io/ModIO.md",
+    "src/io/Utils.md",
+    "src/io/Advanced.md",
+    "src/io/FileAdvanced.md",
+    "src/io/Example.md",
+    "src/io/CommonFormats.md",
+    "src/io/Security.md",
+    "src/io/EfficientIO.md",
+    "src/io/InputOutput.md",
+    "src/io/FileOperation.md",
+    "src/io/File.md",
+    "src/io/IO.md",
+    "src/Delve.md",
+    "src/debug/GDB.md",
+    "src/generics/Structure.md",
     "generics/Structue.md",
-    "src/generics/Performance.md",
-    "src/generics/Advanced.md",
-    "src/generics/Pattern.md",
-    "src/generics/Constraints.md",
-    "src/generics/Syntax.md",
-    "src/generics/Generics.md",
-    "src/Goroutine.md",
-    "src/reflection/Reflection.md",
-    "src/GC.md",
-    "src/sys/Sys.md",
-    "src/alloc/GC.md",
-    "src/alloc.GC.md",
-    "src/debug/Utils.md",
-    "src/Reflection.md",
-    "src/Alloc.md",
-    "src/Assembly.md",
-    "src/debug/Pprof.md",
-    "src/debug/Debug.md",
-    "src/debug/Expvar.md"
+    "src/generics/Performance.md"
   ]
 }
