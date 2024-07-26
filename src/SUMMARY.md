@@ -102,6 +102,8 @@
 	- [类型断言](oop/TypeAssertion.md)
 	- [接口的多态性](oop/Poly.md)
 - [并发编程](concurrency/Concurrency.md)
+	- [CSP 模型](concurrency/CSP.md)
+	- [Actor 模型](concurrency/Actor.md)
 	- [协程](concurrency/Goroutine.md)
 	- [协程的实现](concurrency/GoroutineImpl.md)
 	- [管道](concurrency/Chan.md)

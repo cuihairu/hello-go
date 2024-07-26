@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/concurrency/CSP.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/concurrency/CSP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/concurrency/CSP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SUMMARY.md"
+                "file": "src/concurrency/CSP.md"
               }
             }
           }
@@ -160,11 +160,14 @@
   },
   "active": "488bfd569207e159",
   "lastOpenFiles": [
-    "src/dp/Command.md",
     "src/SUMMARY.md",
-    "dp",
-    "src/dp/Composite.md",
+    "src/concurrency/CSP.md",
+    "src/concurrency/Actor.md",
     "src/dp/AbstractFactory.md",
+    "dp/Behavioral.md",
+    "dp",
+    "src/dp/Command.md",
+    "src/dp/Composite.md",
     "src/dp/FactoryMethod.md",
     "src/dp/DesignPatterns.md",
     "src/dp/Iterator.md",
@@ -186,9 +189,6 @@
     "src/dp",
     "src/dp/Reactor.md",
     "src/dp/Proactor.md",
-    "src/net/Netpoll.md",
-    "src/net/Concurrence.md",
-    "src/net/Advanced.md",
     "src/log",
     "src/net",
     "src/encoding",
