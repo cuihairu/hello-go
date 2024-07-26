@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "488bfd569207e159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/SUMMARY.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,44 +158,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "72610fb9cc312e4f",
+  "active": "488bfd569207e159",
   "lastOpenFiles": [
-    "src/net/Proactor.md",
+    "src/dp/Command.md",
     "src/SUMMARY.md",
-    "src/net/Reactor.md",
+    "dp",
+    "src/dp/Composite.md",
+    "src/dp/AbstractFactory.md",
+    "src/dp/FactoryMethod.md",
+    "src/dp/DesignPatterns.md",
+    "src/dp/Iterator.md",
+    "src/dp/Mediator.md",
+    "src/dp/ChainofResponsibility.md",
+    "src/dp/Strategy.md",
+    "src/dp/Flyweight.md",
+    "src/dp/未命名",
+    "src/dp/Bridge.md",
+    "src/dp/Facade.md",
+    "src/dp/Proxy.md",
+    "src/dp/Decorator.md",
+    "src/dp/Adapter.md",
+    "src/dp/ObjectPool.md",
+    "src/dp/Prototype.md",
+    "src/dp/Builder.md",
+    "src/dp/Singleton.md",
+    "src/dp/Observer.md",
+    "src/dp",
+    "src/dp/Reactor.md",
+    "src/dp/Proactor.md",
+    "src/net/Netpoll.md",
     "src/net/Concurrence.md",
     "src/net/Advanced.md",
-    "src/net/SlidingWindow.md",
-    "src/net/Socket.md",
-    "src/net/Proto.md",
-    "src/net/Intro.md",
     "src/log",
     "src/net",
-    "src/encoding/TOML.md",
-    "src/encoding/Ini.md",
-    "src/encoding/CSV.md",
-    "src/encoding/Base64.md",
-    "src/encoding/XML.md",
-    "src/encoding/JSON.md",
-    "src/encoding/Text.md",
-    "src/encoding/UTF8.md",
-    "src/encoding/Binary.md",
-    "src/encoding/Gob.md",
-    "src/encoding/Hex.md",
-    "src/encoding/Voice.md",
-    "src/encoding/Formats.md",
-    "src/encoding/Encoding.md",
     "src/encoding",
-    "src/Goroutine.md",
-    "src/Chan.md",
-    "src/Alloc.md",
     "book/gc",
     "book/asm",
     "book/elasticlunr.min.js",
     "book/mark.min.js",
-    "book/searcher.js",
-    "book/searchindex.js",
-    "book/searchindex.json",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png"

@@ -2,5 +2,9 @@
   "alwaysUpdateLinks": true,
   "livePreview": false,
   "strictLineBreaks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "src",
+  "attachmentFolderPath": "/",
+  "newLinkFormat": "relative"
 }
