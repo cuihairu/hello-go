@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/concurrency/CSP.md",
+                "file": "src/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/concurrency/CSP.md",
+                "file": "src/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/concurrency/CSP.md",
+                "file": "src/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/concurrency/CSP.md"
+                "file": "src/SUMMARY.md"
               }
             }
           }
@@ -160,11 +160,16 @@
   },
   "active": "488bfd569207e159",
   "lastOpenFiles": [
+    "dp/Behavioral.md",
     "src/SUMMARY.md",
+    "dp/Structural.md",
+    "dp/Creational.md",
+    "src/concurrency/Goroutine 1.md",
+    "src/concurrency/Chan.md",
+    "src/concurrency/Chan 1.md",
     "src/concurrency/CSP.md",
     "src/concurrency/Actor.md",
     "src/dp/AbstractFactory.md",
-    "dp/Behavioral.md",
     "dp",
     "src/dp/Command.md",
     "src/dp/Composite.md",
@@ -183,12 +188,7 @@
     "src/dp/Adapter.md",
     "src/dp/ObjectPool.md",
     "src/dp/Prototype.md",
-    "src/dp/Builder.md",
-    "src/dp/Singleton.md",
-    "src/dp/Observer.md",
     "src/dp",
-    "src/dp/Reactor.md",
-    "src/dp/Proactor.md",
     "src/log",
     "src/net",
     "src/encoding",
