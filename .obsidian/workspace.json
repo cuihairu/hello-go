@@ -147,9 +147,15 @@
   },
   "active": "c2452f214cb27851",
   "lastOpenFiles": [
+    "src/log/Aggregation.md",
+    "src/SUMMARY.md",
+    "src/log/LibLog.md",
+    "src/log/ModLog.md",
+    "src/log/Log.md",
+    "log",
+    "src/未命名",
     "src/mod/New.md",
     "src/mod/Get.md",
-    "src/SUMMARY.md",
     "src/math/Optimize.md",
     "book/log",
     "book/gc",
@@ -159,8 +165,6 @@
     "book/searcher.js",
     "book/searchindex.js",
     "book/searchindex.json",
-    "book/fonts/source-code-pro-v11-all-charsets-500.woff2",
-    "book/fonts/SOURCE-CODE-PRO-LICENSE.txt",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
@@ -181,10 +185,6 @@
     "src/dp/Behavioral.md",
     "src/dp/Visitor.md",
     "src/dp/TemplateMethod.md",
-    "src/dp/Structural.md",
-    "src/dp/State.md",
-    "src/dp/Memento.md",
-    "src/dp/Creational.md",
-    "src/dp/Creational.md"
+    "src/dp/Structural.md"
   ]
 }
