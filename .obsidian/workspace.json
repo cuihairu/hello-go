@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dp/Visitor.md",
+                "file": "src/dp/Behavioral.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dp/Visitor.md",
+                "file": "src/dp/Behavioral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dp/Visitor.md",
+                "file": "src/dp/Behavioral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dp/Visitor.md"
+                "file": "src/dp/Behavioral.md"
               }
             }
           }
@@ -145,15 +145,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "51597179796931f3",
+  "active": "aa6b9db8af798974",
   "lastOpenFiles": [
+    "book/log",
+    "book/gc",
+    "book/asm",
+    "book/elasticlunr.min.js",
+    "book/mark.min.js",
+    "book/mermaid-init.js",
+    "book/FontAwesome/fonts/FontAwesome.ttf",
+    "book/FontAwesome/fonts/fontawesome-webfont.woff2",
+    "book/FontAwesome/fonts/fontawesome-webfont.woff",
+    "book/FontAwesome/fonts/fontawesome-webfont.ttf",
+    "book/FontAwesome/fonts/fontawesome-webfont.svg",
+    "book/FontAwesome/fonts/fontawesome-webfont.eot",
+    "book/favicon.svg",
+    "book/favicon.png",
+    "src/dp/Visitor.md",
+    "src/dp/Behavioral.md",
+    "src/dp/TemplateMethod.md",
+    "src/dp/Structural.md",
+    "src/dp/State.md",
+    "src/dp/Memento.md",
+    "src/dp/Creational.md",
+    "src/dp/Creational.md",
+    "src/dp/Memento.md",
+    "src/dp/State.md",
+    "src/dp/Visitor.md",
+    "src/Alloc.md",
+    "src/Assembly.md",
     "src/SUMMARY.md",
-    "dp/Visitor.md",
-    "dp/TemplateMethod.md",
+    "src/dp/TemplateMethod.md",
     "src/dp/Strategy.md",
-    "dp/State.md",
     "src/dp/Observer.md",
-    "dp/Memento.md",
     "src/dp/Mediator.md",
     "src/dp/Command.md",
     "src/dp/ChainofResponsibility.md",
@@ -161,30 +185,6 @@
     "src/dp/Proxy.md",
     "src/dp/Flyweight.md",
     "src/dp/Facade.md",
-    "src/dp/Decorator.md",
-    "src/dp/Composite.md",
-    "src/dp/Bridge.md",
-    "src/dp/Adapter.md",
-    "src/dp/Singleton.md",
-    "src/dp/Prototype.md",
-    "src/dp/Builder.md",
-    "src/dp/FactoryMethod.md",
-    "src/dp/AbstractFactory.md",
-    "dp/Creational.md",
-    "dp/Behavioral.md",
-    "dp/Structural.md",
-    "dp",
-    "src/dp/未命名",
-    "src/dp",
-    "src/log",
-    "src/net",
-    "src/encoding",
-    "book/gc",
-    "book/asm",
-    "book/elasticlunr.min.js",
-    "book/mark.min.js",
-    "book/FontAwesome/fonts/fontawesome-webfont.svg",
-    "book/favicon.svg",
-    "book/favicon.png"
+    "src/dp/Decorator.md"
   ]
 }
