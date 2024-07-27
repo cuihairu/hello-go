@@ -5,8 +5,12 @@ multilingual = false
 src = "src"
 title = "Hello Golang"
 
+[preprocessor.katex]
+after = ["links"]
+
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
 
 [output.html]
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
+

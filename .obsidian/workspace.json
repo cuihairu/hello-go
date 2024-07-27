@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/time/Practice.md",
+                "file": "src/math/Optimize.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/time/Practice.md",
+                "file": "src/math/Optimize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/time/Practice.md",
+                "file": "src/math/Optimize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/time/Practice.md"
+                "file": "src/math/Optimize.md"
               }
             }
           }
@@ -145,18 +145,8 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "aa6b9db8af798974",
+  "active": "c2452f214cb27851",
   "lastOpenFiles": [
-    "src/SUMMARY.md",
-    "src/time/Practice.md",
-    "src/time/Advanced.md",
-    "src/time/TimerAndTicker.md",
-    "time",
-    "src/time/TimeZone.md",
-    "src/time/FormatAndParse.md",
-    "src/time/PkgTime.md",
-    "src/time/ConceptTime.md",
-    "book/time/Time",
     "book/log",
     "book/gc",
     "book/asm",
@@ -165,9 +155,28 @@
     "book/searcher.js",
     "book/searchindex.js",
     "book/searchindex.json",
+    "book/fonts/source-code-pro-v11-all-charsets-500.woff2",
+    "book/fonts/SOURCE-CODE-PRO-LICENSE.txt",
+    "book/fonts/open-sans-v17-all-charsets-regular.woff2",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
+    "src/math/Science.md",
+    "src/SUMMARY.md",
+    "src/math/Statistics.md",
+    "src/math/Calc.md",
+    "src/math/Optimize.md",
+    "src/math/LinearAlgebra.md",
+    "src/math/MathRand.md",
+    "src/math/MathFunc.md",
+    "src/math/Math.md",
+    "src/time/Practice.md",
+    "src/time/Advanced.md",
+    "src/time/TimerAndTicker.md",
+    "src/time/TimeZone.md",
+    "src/time/FormatAndParse.md",
+    "src/time/PkgTime.md",
+    "src/time/ConceptTime.md",
     "src/dp/Behavioral.md",
     "src/dp/Visitor.md",
     "src/dp/TemplateMethod.md",
@@ -176,15 +185,6 @@
     "src/dp/Memento.md",
     "src/dp/Creational.md",
     "src/dp/Creational.md",
-    "src/dp/Memento.md",
-    "src/dp/State.md",
-    "src/dp/Visitor.md",
-    "src/Alloc.md",
-    "src/Assembly.md",
-    "src/dp/TemplateMethod.md",
-    "src/dp/Strategy.md",
-    "src/dp/Observer.md",
-    "src/dp/Mediator.md",
-    "src/dp/Command.md"
+    "src/dp/Memento.md"
   ]
 }
