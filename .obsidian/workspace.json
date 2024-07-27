@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c6ec162f83019094",
+        "id": "89c1b443356aeded",
         "type": "tabs",
         "children": [
           {
-            "id": "72610fb9cc312e4f",
+            "id": "51597179796931f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/SUMMARY.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "488bfd569207e159",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/SUMMARY.md",
+                "file": "dp/Visitor.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "dp/Visitor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "dp/Visitor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SUMMARY.md"
+                "file": "dp/Visitor.md"
               }
             }
           }
@@ -158,36 +145,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "488bfd569207e159",
+  "active": "51597179796931f3",
   "lastOpenFiles": [
-    "dp/Behavioral.md",
     "src/SUMMARY.md",
-    "dp/Structural.md",
-    "dp/Creational.md",
-    "src/concurrency/Goroutine 1.md",
-    "src/concurrency/Chan.md",
-    "src/concurrency/Chan 1.md",
-    "src/concurrency/CSP.md",
-    "src/concurrency/Actor.md",
-    "src/dp/AbstractFactory.md",
-    "dp",
-    "src/dp/Command.md",
-    "src/dp/Composite.md",
-    "src/dp/FactoryMethod.md",
-    "src/dp/DesignPatterns.md",
-    "src/dp/Iterator.md",
-    "src/dp/Mediator.md",
-    "src/dp/ChainofResponsibility.md",
+    "dp/Visitor.md",
+    "dp/TemplateMethod.md",
     "src/dp/Strategy.md",
-    "src/dp/Flyweight.md",
-    "src/dp/未命名",
-    "src/dp/Bridge.md",
-    "src/dp/Facade.md",
+    "dp/State.md",
+    "src/dp/Observer.md",
+    "dp/Memento.md",
+    "src/dp/Mediator.md",
+    "src/dp/Command.md",
+    "src/dp/ChainofResponsibility.md",
+    "src/dp/Iterator.md",
     "src/dp/Proxy.md",
+    "src/dp/Flyweight.md",
+    "src/dp/Facade.md",
     "src/dp/Decorator.md",
+    "src/dp/Composite.md",
+    "src/dp/Bridge.md",
     "src/dp/Adapter.md",
-    "src/dp/ObjectPool.md",
+    "src/dp/Singleton.md",
     "src/dp/Prototype.md",
+    "src/dp/Builder.md",
+    "src/dp/FactoryMethod.md",
+    "src/dp/AbstractFactory.md",
+    "dp/Creational.md",
+    "dp/Behavioral.md",
+    "dp/Structural.md",
+    "dp",
+    "src/dp/未命名",
     "src/dp",
     "src/log",
     "src/net",
