@@ -144,6 +144,8 @@
 	- [模块工作区](mod/Work.md)
 	- [包的导入路径与可见性](mod/Import.md)
 	- [init函数](mod/Init.md)
+	- [包的安装和原理](mod/Get.md)
+	- [发布包](mod/New.md)
 - [泛型](generics/Generics.md)
 	- [泛型基础](generics/Syntax.md)
 	- [泛型约束](generics/Constraints.md)
