@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/db/Install.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/db/Install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/db/Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SUMMARY.md"
+                "file": "src/db/Install.md"
               }
             }
           }
@@ -154,37 +154,37 @@
     "book/searcher.js",
     "book/searchindex.js",
     "book/searchindex.json",
+    "book/FontAwesome/css/font-awesome.css",
     "book/FontAwesome/fonts/fontawesome-webfont.woff2",
     "book/FontAwesome/fonts/FontAwesome.ttf",
     "book/FontAwesome/fonts/fontawesome-webfont.ttf",
-    "book/FontAwesome/fonts/fontawesome-webfont.woff",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
+    "src/SUMMARY.md",
     "book/favicon.svg",
     "book/favicon.png",
+    "src/db/Monitor.md",
+    "src/db/GraphQL.md",
+    "src/db/Sharding.md",
+    "src/Assembly.md",
+    "src/db/Project.md",
+    "src/db/NoSQL.md",
+    "src/db/Availability.md",
+    "src/db/Security.md",
+    "src/db/Mock.md",
+    "src/db/Performance.md",
+    "src/db/Tx.md",
+    "src/db/Migrate.md",
+    "src/db/ORM.md",
+    "src/db/ConnectPool.md",
+    "src/db/Lib.md",
+    "src/db/SQL.md",
+    "src/db/Base.md",
+    "src/db/Normalization.md",
+    "src/db/Install.md",
+    "src/db/Readme.md",
     "src/compress/ErrHandleAndTest.md",
-    "src/SUMMARY.md",
     "src/compress/Advanced.md",
     "src/compress/Composite.md",
-    "src/compress/Archive.md",
-    "src/compress/Compress.md",
-    "src/compress/Readme.md",
-    "src/log/Aggregation.md",
-    "src/log/LibLog.md",
-    "src/log/ModLog.md",
-    "src/log/Log.md",
-    "src/mod/New.md",
-    "src/mod/Get.md",
-    "src/math/Optimize.md",
-    "src/math/Science.md",
-    "src/math/Statistics.md",
-    "src/math/Calc.md",
-    "src/math/LinearAlgebra.md",
-    "src/math/MathRand.md",
-    "src/math/MathFunc.md",
-    "src/math/Math.md",
-    "src/time/Practice.md",
-    "src/time/Advanced.md",
-    "src/time/TimerAndTicker.md",
-    "src/time/TimeZone.md"
+    "src/compress/Archive.md"
   ]
 }
