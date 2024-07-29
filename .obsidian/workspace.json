@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/middleware/ApacheKafka.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/middleware/ApacheKafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/SUMMARY.md",
+                "file": "src/middleware/ApacheKafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/SUMMARY.md"
+                "file": "src/middleware/ApacheKafka.md"
               }
             }
           }
@@ -147,27 +147,31 @@
   },
   "active": "c2452f214cb27851",
   "lastOpenFiles": [
-    "src/cmd/Design.md",
-    "src/SUMMARY.md",
-    "src/cmd/Parse.md",
-    "src/cmd/Lib.md",
-    "cmd",
-    "src/cmd/Flag.md",
-    "src/cmd/Syntax.md",
-    "src/cmd/Readme.md",
-    "src/cmd",
-    "src/distribution/Readme.md",
-    "book/fonts/source-code-pro-v11-all-charsets-500.woff2",
-    "book/fonts/SOURCE-CODE-PRO-LICENSE.txt",
-    "book/fonts/open-sans-v17-all-charsets-regular.woff2",
-    "book/fonts/open-sans-v17-all-charsets-italic.woff2",
-    "book/fonts/open-sans-v17-all-charsets-800italic.woff2",
-    "book/fonts/open-sans-v17-all-charsets-800.woff2",
-    "book/fonts/open-sans-v17-all-charsets-700italic.woff2",
-    "book/fonts/open-sans-v17-all-charsets-700.woff2",
+    "book/release",
+    "book/middleware/Readme",
+    "book/middleware/messageQueue",
+    "book/middlewar",
+    "book/gc",
+    "book/distribution/R",
+    "book/asm",
+    "book/elasticlunr.min.js",
+    "book/mark.min.js",
+    "book/searcher.js",
+    "book/searchindex.js",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
+    "src/SUMMARY.md",
+    "src/middleware/ApacheKafka.md",
+    "src/middleware/MessageQueue.md",
+    "src/middleware/Readme.md",
+    "src/cmd/Design.md",
+    "src/cmd/Parse.md",
+    "src/cmd/Lib.md",
+    "src/cmd/Flag.md",
+    "src/cmd/Syntax.md",
+    "src/cmd/Readme.md",
+    "src/distribution/Readme.md",
     "src/db/Install.md",
     "src/db/Monitor.md",
     "src/db/GraphQL.md",
@@ -181,10 +185,6 @@
     "src/db/Performance.md",
     "src/db/Tx.md",
     "src/db/Migrate.md",
-    "src/db/ORM.md",
-    "src/db/ConnectPool.md",
-    "src/db/Lib.md",
-    "src/db/SQL.md",
-    "src/db/Base.md"
+    "src/db/ORM.md"
   ]
 }
