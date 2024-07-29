@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/algo/sort/SelectionSort.md",
+                "file": "src/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/algo/sort/SelectionSort.md",
+                "file": "src/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/algo/sort/SelectionSort.md",
+                "file": "src/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/algo/sort/SelectionSort.md"
+                "file": "src/SUMMARY.md"
               }
             }
           }
@@ -147,13 +147,32 @@
   },
   "active": "c2452f214cb27851",
   "lastOpenFiles": [
+    "src/algo/sort/LayeredQuickSort.md",
     "src/SUMMARY.md",
-    "src/algo/sort/BubbleSort.md",
-    "src/algo/sort/SelectionSort.md",
-    "src/test/Practice.md",
-    "src/test/Practice.md",
-    "src/test/Lib.md",
-    "src/test/BaseTest.md",
+    "src/algo/sort/OrderTreeSort.md",
+    "src/algo/sort/CatalanSort.md",
+    "src/algo/sort/ParabolicSort.md",
+    "src/algo/sort/IntervalTreeSort.md",
+    "src/algo/sort/BitmapSort.md",
+    "src/algo/sort/OddEvenMergeSort.md",
+    "src/algo/sort/BridgeSort.md",
+    "src/algo/sort/GroupSort.md",
+    "src/algo/sort/ParallelHeapSort.md",
+    "src/algo/sort/PancakeSort.md",
+    "src/algo/sort/SmoothSort.md",
+    "src/algo/sort/StrandSort.md",
+    "src/algo/sort/BinaryInsertionSort.md",
+    "src/algo/sort/RippleSort.md",
+    "src/algo/sort/StableSort.md",
+    "src/algo/sort/SleepSort.md",
+    "src/algo/sort/BeadSort.md",
+    "src/algo/sort/BozoSort.md",
+    "src/algo/sort/MonkeySort.md",
+    "src/algo/sort/LibrarySort.md",
+    "src/algo/sort/RebuildSort.md",
+    "src/algo/sort/BidirectionalBubbleSort.md",
+    "src/algo/sort/DistributionSort.md",
+    "src/algo/sort/FlashSort.md",
     "book/test/Benchmark",
     "book/test/BaseTe",
     "book/release",
@@ -166,25 +185,6 @@
     "book/elasticlunr.min.js",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
-    "book/favicon.png",
-    "src/test/Cover.md",
-    "src/test/Advanced.md",
-    "src/test/Example.md",
-    "src/test/Benchmark.md",
-    "src/test/Test.md",
-    "src/algo/sort/Sort.md",
-    "src/algo/sort/Batcher'sOddEvenMergeSort.md",
-    "src/redis/Streams.md",
-    "src/redis/Geospatial.md",
-    "src/redis/HyperLogLog.md",
-    "src/redis/Bitmap.md",
-    "src/redis/SortedSet.md",
-    "src/redis/Set.md",
-    "src/redis/List.md",
-    "src/redis/Hash.md",
-    "src/redis/String.md",
-    "src/redis/Install.md",
-    "src/redis/Readme.md",
-    "src/middleware/ApacheKafka.md"
+    "book/favicon.png"
   ]
 }
