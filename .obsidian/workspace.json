@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/middleware/ApacheKafka.md",
+                "file": "src/redis/Streams.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/middleware/ApacheKafka.md",
+                "file": "src/redis/Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/middleware/ApacheKafka.md",
+                "file": "src/redis/Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/middleware/ApacheKafka.md"
+                "file": "src/redis/Streams.md"
               }
             }
           }
@@ -145,8 +145,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c2452f214cb27851",
+  "active": "aa6b9db8af798974",
   "lastOpenFiles": [
+    "src/SUMMARY.md",
+    "src/redis/Streams.md",
+    "src/redis/Geospatial.md",
+    "src/redis/HyperLogLog.md",
+    "src/redis/Bitmap.md",
+    "src/redis/SortedSet.md",
+    "src/redis/Set.md",
+    "src/redis/List.md",
+    "src/redis/Hash.md",
+    "redis",
+    "src/redis/String.md",
+    "src/redis/Install.md",
+    "src/redis/Readme.md",
+    "src/middleware/ApacheKafka.md",
+    "src/redis",
     "book/release",
     "book/middleware/Readme",
     "book/middleware/messageQueue",
@@ -155,14 +170,9 @@
     "book/distribution/R",
     "book/asm",
     "book/elasticlunr.min.js",
-    "book/mark.min.js",
-    "book/searcher.js",
-    "book/searchindex.js",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
-    "src/SUMMARY.md",
-    "src/middleware/ApacheKafka.md",
     "src/middleware/MessageQueue.md",
     "src/middleware/Readme.md",
     "src/cmd/Design.md",
@@ -175,16 +185,6 @@
     "src/db/Install.md",
     "src/db/Monitor.md",
     "src/db/GraphQL.md",
-    "src/db/Sharding.md",
-    "src/Assembly.md",
-    "src/db/Project.md",
-    "src/db/NoSQL.md",
-    "src/db/Availability.md",
-    "src/db/Security.md",
-    "src/db/Mock.md",
-    "src/db/Performance.md",
-    "src/db/Tx.md",
-    "src/db/Migrate.md",
-    "src/db/ORM.md"
+    "src/db/Sharding.md"
   ]
 }
