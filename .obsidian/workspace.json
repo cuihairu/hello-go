@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/test/Lib.md",
+                "file": "src/algo/sort/SelectionSort.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/test/Lib.md",
+                "file": "src/algo/sort/SelectionSort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/test/Lib.md",
+                "file": "src/algo/sort/SelectionSort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/test/Lib.md"
+                "file": "src/algo/sort/SelectionSort.md"
               }
             }
           }
@@ -147,6 +147,12 @@
   },
   "active": "c2452f214cb27851",
   "lastOpenFiles": [
+    "src/SUMMARY.md",
+    "src/algo/sort/BubbleSort.md",
+    "src/algo/sort/SelectionSort.md",
+    "src/test/Practice.md",
+    "src/test/Practice.md",
+    "src/test/Lib.md",
     "src/test/BaseTest.md",
     "book/test/Benchmark",
     "book/test/BaseTe",
@@ -161,11 +167,7 @@
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
-    "test/Practice.md",
-    "src/test/Practice.md",
-    "src/SUMMARY.md",
     "src/test/Cover.md",
-    "src/test/Lib.md",
     "src/test/Advanced.md",
     "src/test/Example.md",
     "src/test/Benchmark.md",
