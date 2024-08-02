@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/algo/sort/BitwiseSort.md",
+                "file": "src/SUMMARY.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/algo/sort/BitwiseSort.md",
+                "file": "src/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/algo/sort/BitwiseSort.md",
+                "file": "src/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/algo/sort/BitwiseSort.md"
+                "file": "src/SUMMARY.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "c2452f214cb27851",
   "lastOpenFiles": [
+    "book/web",
     "book/test/Benchmark",
     "book/test/BaseTe",
     "book/release",
@@ -157,17 +158,22 @@
     "book/elasticlunr.min.js",
     "book/mark.min.js",
     "book/searcher.js",
-    "book/searchindex.js",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
     "book/favicon.svg",
     "book/favicon.png",
+    "src/regex/Debug.md",
+    "src/regex/Usual.md",
+    "src/regex/Advanced.md",
+    "src/regex/Use.md",
+    "src/regex/Lib.md",
+    "src/regex/Readme.md",
     "src/SUMMARY.md",
+    "src/algo/sort/BitwiseSort.md",
     "src/algo/sort/CycleSort.md",
     "src/algo/sort/CombSort.md",
     "src/algo/sort/GnomeSort.md",
     "src/algo/sort/CocktailSort.md",
     "src/algo/sort/TimSort.md",
-    "src/algo/sort/BitwiseSort.md",
     "src/algo/sort/BucketSort.md",
     "src/algo/sort/ShellSort.md",
     "src/algo/sort/HeapSort.md",
@@ -179,12 +185,6 @@
     "src/algo/sort/DualPivotQuickSort.md",
     "src/algo/sort/FlashSort.md",
     "src/algo/sort/GroupSort.md",
-    "src/alloc/Alloc.md",
-    "src/net/SlidingWindow.md",
-    "src/asm/Assembly.md",
-    "src/Assembly.md",
-    "src/gGC.md",
-    "src/all0cAlloc.md",
-    "src/Alloc.md"
+    "src/alloc/Alloc.md"
   ]
 }
